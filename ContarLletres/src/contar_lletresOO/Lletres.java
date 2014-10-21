@@ -2,6 +2,11 @@ package contar_lletresOO;
 
 import java.util.ArrayList;
 
+/**
+ * Classe per crear objecte de tipus "lletra".
+ * @author b4tm4n
+ *
+ */
 public class Lletres {
 
 	/**
