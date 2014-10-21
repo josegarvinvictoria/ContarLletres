@@ -4,7 +4,14 @@ import java.util.ArrayList;
 
 public class Lletres {
 
+	/**
+	 * Lletra a cercar.
+	 */
     char lletra;
+
+    /**
+     * Numero d'aparicions de la lletra
+     */
     int aparicions;
 
 
@@ -40,7 +47,7 @@ public class Lletres {
     	}
     	if(!(o instanceof Lletres)){
     		return false;
-    		
+
     	}
     	Lletres other = (Lletres) o;
     	return this.lletra == other.lletra;
