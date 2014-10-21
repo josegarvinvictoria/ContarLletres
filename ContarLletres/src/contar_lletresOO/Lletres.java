@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  * Classe per crear objecte de tipus "lletra".
- * @author b4tm4n
+ * @author Jose Garvin Victoria
  *
  */
 public class Lletres {
